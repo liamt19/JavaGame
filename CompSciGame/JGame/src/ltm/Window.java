@@ -44,8 +44,7 @@ public class Window extends JPanel implements KeyListener, ActionListener {
     
     /*
      * 
-     * 
-     * 
+     *
      * 
      * -2\left(y-400\right)^2=720\left(x-161\right)
      * 
