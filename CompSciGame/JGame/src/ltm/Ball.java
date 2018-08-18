@@ -10,6 +10,9 @@ import ltm.Window;
 
 public class Ball {
 
+	// This file is unused. It could be implemented, but was not in this branch.
+	
+	
 	private int endLoc;
 	private BufferedImage image;
 	
