@@ -18,7 +18,8 @@ public class Ball {
 	
 	
 	
-	
+	// could be used to initialize different types of balls. That would necessitate making a larger png file
+	// or scaling the image up.
 	public Ball(int tall, int wide, BufferedImage ballImage, String ballFilePath) {
 		 
 	    	int range = ((wide-25) - 25) + 1;     
